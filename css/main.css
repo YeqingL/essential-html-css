@@ -2,7 +2,7 @@ body {
 	font-family: 'Lato', 'Helvetica Neue', 'Helvetica', sens-serif;
 	font-size: 18px;
 	font-weight: 300;
-	background-image: url("/Users/svea/Documents/Courses/2015Summer/Info343/HW2/essential-html-css/img/background.jpg");
+	background-image: url("../img/background.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -43,7 +43,7 @@ main {
 	margin-right: 20px;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	background-image: url("/Users/svea/Documents/Courses/2015Summer/Info343/HW2/essential-html-css/img/ricepaper_v3.png");
+	background-image: url("../img/ricepaper_v3.png");
 	opacity: 0.9;
 }
 
